@@ -1,0 +1,7 @@
+[ 
+	{ "name": "Student1", "email": "student1@email.com", "course": "Software Engineering" },
+	{ "name": "Student2", "email": "student2@email.com", "course": "Software Engineering" },
+	{ "name": "Student3", "email": "student3@email.com", "course": "Computer Science" },
+	{ "name": "Student4", "email": "student4@email.com", "course": "Computer Science" },
+	{ "name": "Student5", "email": "student5@email.com", "course": "Computer Engineering" } 
+]
