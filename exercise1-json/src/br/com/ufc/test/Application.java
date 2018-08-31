@@ -16,8 +16,7 @@ import br.com.ufc.model.Student;
 public class Application {
 	
 	public static void main(String[] args) {	
-		File file = new File("C:/Users/cezar/Desktop/Atividades reuso/reuse/exercise1-json/"
-				+ "resources/file.json");
+		File file = new File("resources/file.json");
 		
 		Gson gson = new Gson();
 		Reader reader = null;
